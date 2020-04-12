@@ -18,10 +18,11 @@ Of course, you can follow the traditional way of building C++ projects from the 
 #### Linux
 1. Install GNU C/C++ compiler:
 
-If you are using Fedora, Red Hat, CentOS, or Scientific Linux, use the following yum command to install GNU C/C++ compiler: `yum groupinstall 'Development Tools'`
+If you are using Fedora, Red Hat, CentOS, or Scientific Linux, use the following yum command to install GNU C/C++ compiler: 
+`yum groupinstall 'Development Tools'`
 
-If you are using Debian or Ubuntu Linux, type the following apt-get command to install GNU c/c++ compiler:
-`$ sudo apt-get update`
+If you are using Debian or Ubuntu Linux, type the following apt-get command to install GNU c/c++ compiler:<br>
+`$ sudo apt-get update`<br>
 `$ sudo apt-get install build-essential manpages-dev`
 
 2. `cd` to the directory in which the C++ project is located
