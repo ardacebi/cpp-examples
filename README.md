@@ -41,10 +41,10 @@ If you are using Debian or Ubuntu Linux, type the following apt-get command to i
 4. Run the executable: `file.exe`.
 
 ## Index
-- [BMI Calculator](#bmi_calculator)
-- [Space Traveler](#space_traveler)
+- [BMI Calculator](#bmi_calculator) [(file)](bmi.cpp)
+- [Space Traveler](#space_traveler) [(file)](space.cpp)
 
-### <a name="bmi_calculator"></a>BMI Calculator
+### <a name="bmi_calculator"></a>[BMI Calculator](bmi.cpp)
 Body mass index (BMI) is a value derived from the mass and height of a person. The BMI is defined as the body mass divided by the square of the body height.
 
 This program calculates the BMI of a person by:
@@ -52,7 +52,7 @@ This program calculates the BMI of a person by:
 2. Asking them their weight in kilograms (kg)
 3. Calculating their BMI with the formula weight / (height * height).
 
-### <a name="space_traveler"></a>Space Traveler
+### <a name="space_traveler"></a>[Space Traveler](space.cpp)
 Someone is travelling from planet Earth to six potential other planets in our solar system.  This program requests the person's weight on planet Earth, and then calculates their weight on the other planets.
 
 The program does this by:
