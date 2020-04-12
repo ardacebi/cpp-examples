@@ -10,7 +10,7 @@ Compiling C++ projects using your IDE is an easy way of editing and seeing it's 
 #### Visual Studio
 After you've loaded (and perhaps edited) the project to Visual Studio, build it from the Build section.
 
-<img src="https://drive.google.com/file/d/1GY2wSwnxmrcOb37ql3GJ14DsRAtplI8o/preview"></img>
+<img src="https://lh3.googleusercontent.com/Ka6JdtFN6rrfV5ID8JNZ6KhLYTA0b6p3mVMnEqqmd0uHltUTUMC42qMG2wecbTcKKWx6oDuXN6s-4CNbEPVy=w3584-h1836-rw"></img>
 
 ### Method 2: Terminal
 Of course, you can follow the traditional way of building C++ projects from the terminal.
