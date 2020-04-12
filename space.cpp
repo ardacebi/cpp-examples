@@ -15,9 +15,9 @@ The program does this by:
 int main()
 {
 
-  double weight; // This is the person's weight on Earth
+  double weight;   // This is the person's weight on Earth
   int destination; // This is the destination
-  int new_weight; // This is a variable that is going to be declared after the questions as the new weight on the new planet
+  int new_weight;  // This is a variable that is going to be declared after the questions as the new weight on the new planet
 
   std::cout << "What is your weight on planet Earth?\n"; // Asks the user on how much does the person weighs on Earth
   std::cin >> weight;

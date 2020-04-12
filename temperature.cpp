@@ -40,7 +40,6 @@ int main()
 
     tempf = (tempc * 1.8) + 32; // Calculate Fahrenheit from Celsius with it's formula.
 
-    
-    std::cout << "The temp is " << tempf << " degrees Fahrenheit.\n"; // Output calculated Fahrenheit value.
+        std::cout << "The temp is " << tempf << " degrees Fahrenheit.\n"; // Output calculated Fahrenheit value.
   }
 }

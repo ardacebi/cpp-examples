@@ -9,23 +9,22 @@ This program calculates the BMI of a person by:
 3. Calculating their BMI with the formula weight / (height * height).
 */
 
-
 #include <iostream>
 
-int main() {
-  
+int main()
+{
+
   double height, weight, bmi; // Declares variables without initial data
-  
+
   std::cout << "Type in your height (m): "; // Requests the user to input their height
   std::cin >> height;
-  
+
   std::cout << "Type in your weight (kg): "; // Requests the user to input their weight
   std::cin >> weight;
-  
-  bmi = weight / (height * height); // Updates the bmi variable using the inputted information by the user and the BMI calculation formula
-  
-  std::cout << "Your body mass index (BMI) is: " << bmi << "\n"; // Outputs the final calculation
-  
-  return 0;
 
+  bmi = weight / (height * height); // Updates the bmi variable using the inputted information by the user and the BMI calculation formula
+
+  std::cout << "Your body mass index (BMI) is: " << bmi << "\n"; // Outputs the final calculation
+
+  return 0;
 }
