@@ -62,6 +62,7 @@ Your examples should be **instructive and explanatory with comments**. Make sure
 ## <a name="example_index"></a>Example Index
 - [BMI Calculator](#bmi_calculator) [(file)](bmi.cpp)
 - [Space Traveler](#space_traveler) [(file)](space.cpp)
+- [Temperature Converter](#temperature_converter) [(file)](temperature.cpp)
 
 ---
 
@@ -80,3 +81,11 @@ The program does this by:
 1. Asking the person their weight on planet Earth
 2. Asking the person which planet they want to travel
 3. After receiving those information, it multiplies the person's weight with the gravitational force of that planet to calculate their weight on those planets.
+
+### <a name="temperature_converter"></a>[Temperature Converter](temperature.cpp)
+This program converts Fahrenheit to Celsius and vice versa based on user selection.
+
+The program does this by:
+1. Asking the user what they want to convert to and from (Fahrenheit to Celsius or Celsius to Fahrenheit)
+2. Asking the user to input the temperature value
+3. Outputting the final calculated value.
