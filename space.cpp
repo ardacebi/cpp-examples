@@ -1,4 +1,6 @@
 /* 
+SPACE TRAVELER by Arda Çebi (@ardacebi)
+
 Someone is travelling from planet Earth to six potential other planets in our solar system. 
 This program requests the person's weight on planet Earth, and then calculates their weight on the other planets.
 
