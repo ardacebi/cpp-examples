@@ -1,6 +1,47 @@
 # C++ Examples
 Simple and basic C++ examples for educational purposes.
 
+## Building/Compiling
+You can compile/build all these examples on your computer to change and try them out yourself.
+
+### Method 1: Using an IDE
+Compiling C++ projects using your IDE is an easy way of editing and seeing it's result in a shorter time.
+
+#### Visual Studio
+After you've loaded (and perhaps edited) the project to Visual Studio, build it from the Build section.
+
+<img src="readme_assets/vs_build.jpg"></img>
+
+### Method 2: Terminal
+Of course, you can follow the traditional way of building C++ projects from the terminal.
+
+#### Linux
+
+1. Install GNU C/C++ compiler:
+
+If you are using Fedora, Red Hat, CentOS, or Scientific Linux, use the following yum command to install GNU c/c++ compiler:
+# yum groupinstall 'Development Tools'
+
+If you are using Debian or Ubuntu Linux, type the following apt-get command to install GNU c/c++ compiler:
+$ sudo apt-get update
+$ sudo apt-get install build-essential manpages-dev
+
+2. cd to the directory in which the C++ project is located
+3. Compile with g++ file.cpp -o file2
+4. Run with ./file
+
+
+#### Mac
+1. Compile with g++ file.cpp
+2. Run with ./file
+
+
+#### Windows
+1. Download MinGW from [here](https://sourceforge.net/projects/mingw-w64/) or [here](https://sourceforge.net/projects/mingw/files/OldFiles/).
+2. cd to the directory in which the C++ project is located (like: cd C:\Desktop\...)
+3. Compile with g++ file.cpp -o file.exe
+4. Run the executable: file.exe.
+
 ## Index
 - [BMI Calculator](#bmi_calculator)
 - [Space Traveler](#space_traveler)
