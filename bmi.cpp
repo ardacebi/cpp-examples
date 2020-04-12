@@ -1,10 +1,12 @@
 /* 
+BMI CALCULATOR by Arda Çebi (@ardacebi)
+
 Body mass index (BMI) is a value derived from the mass and height of a person. The BMI is defined as the body mass divided by the square of the body height.
 
 This program calculates the BMI of a person by:
 1. Asking them their height in metres (m)
 2. Asking them their weight in kilograms (kg)
-3. Calculating their BMI with the formula weight / (height * height)
+3. Calculating their BMI with the formula weight / (height * height).
 */
 
 
