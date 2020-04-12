@@ -27,14 +27,14 @@ If you are using Fedora, Red Hat, CentOS, or Scientific Linux, use the following
 
 `yum groupinstall 'Development Tools'`
 
-If you are using Debian or Ubuntu Linux, type the following apt-get command to install GNU c/c++ compiler:
+If you are using Debian or Ubuntu Linux, type the following apt-get command to install GNU C/C++ compiler:
 
 `$ sudo apt-get update`
 
 `$ sudo apt-get install build-essential manpages-dev`
 
 2. `cd` to the directory in which the C++ project is located
-3. Compile with g++ `file.cpp -o file2`
+3. Compile with `g++ file.cpp -o file2`
 4. Run with `./file`
 
 
