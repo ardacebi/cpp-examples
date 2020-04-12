@@ -1,12 +1,10 @@
 # C++ Examples
 Simple and basic C++ examples for educational purposes.
 
-
-
 ## Index
 - [Building/Compiling](#building_compiling)
 - [Contributing](#contributing)
-- [Project Index](#example_index)
+- [Example Index](#example_index)
 
 ## <a name="building_compiling"></a>Building/Compiling
 You can compile/build all these examples on your computer to change and try them out yourself.
