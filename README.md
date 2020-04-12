@@ -1,7 +1,14 @@
 # C++ Examples
 Simple and basic C++ examples for educational purposes.
 
-## Building/Compiling
+
+
+## Index
+- [Building/Compiling](#building_compiling)
+- [Contributing](#contributing)
+- [Project Index](#example_index)
+
+## <a name="building_compiling"></a>Building/Compiling
 You can compile/build all these examples on your computer to change and try them out yourself.
 
 ### Method 1: Using an IDE
@@ -44,7 +51,17 @@ If you are using Debian or Ubuntu Linux, type the following apt-get command to i
 3. Compile with `g++ file.cpp -o file.exe`
 4. Run the executable: `file.exe`.
 
-## Index
+## <a name="contributing"></a>Contributing
+You can contribute your examples with a pull request.
+
+1. Prepare your example with the necessary code and a comment that indicates you're author on the top (see existing examples).
+2. Fork the repository
+3. Add your example(s)
+4. Open a pull request.
+
+Your examples should be **instructive and explanatory with comments**. Make sure to explain important lines on your code (see existing examples). This is an important step as the main objective is to create an explanatory tutorial with all examples.
+
+## <a name="example_index"></a>Example Index
 - [BMI Calculator](#bmi_calculator) [(file)](bmi.cpp)
 - [Space Traveler](#space_traveler) [(file)](space.cpp)
 
