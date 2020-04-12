@@ -20,7 +20,7 @@ Compiling C++ projects using your IDE is an easy way of editing and seeing it's 
 
 After you've loaded (and perhaps edited) the project to Visual Studio, build it from the Build section.
 
-<img src="https://lh3.googleusercontent.com/Ka6JdtFN6rrfV5ID8JNZ6KhLYTA0b6p3mVMnEqqmd0uHltUTUMC42qMG2wecbTcKKWx6oDuXN6s-4CNbEPVy=w3584-h1836-rw"></img>
+<img src="https://lh3.googleusercontent.com/GYYWRP0Kajlph8HURMMCaqKu1UYEbkzeuEW0iw052TBa9Z5WgvZjkA5zpPJLLsDTXav-yeVKAGPTmQ=w3584-h1932-rw"></img>
 
 ### Method 2: Terminal
 
@@ -34,14 +34,14 @@ If you are using Fedora, Red Hat, CentOS, or Scientific Linux, use the following
 
 `yum groupinstall 'Development Tools'`
 
-If you are using Debian or Ubuntu Linux, type the following apt-get command to install GNU c/c++ compiler:
+If you are using Debian or Ubuntu Linux, type the following apt-get command to install GNU C/C++ compiler:
 
 `$ sudo apt-get update`
 
 `$ sudo apt-get install build-essential manpages-dev`
 
 2. `cd` to the directory in which the C++ project is located
-3. Compile with g++ `file.cpp -o file2`
+3. Compile with `g++ file.cpp -o file2`
 4. Run with `./file`
 
 #### Mac
