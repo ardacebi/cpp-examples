@@ -61,6 +61,7 @@ Your examples should be **instructive and explanatory with comments**. Make sure
 
 ## <a name="example_index"></a>Example Index
 - [BMI Calculator](#bmi_calculator) [(file)](bmi.cpp)
+- [Hello World](#hello_world) [(file)](helloworld.cpp)
 - [Space Traveler](#space_traveler) [(file)](space.cpp)
 - [Temperature Converter](#temperature_converter) [(file)](temperature.cpp)
 
@@ -73,6 +74,9 @@ This program calculates the BMI of a person by:
 1. Asking them their height in metres (m)
 2. Asking them their weight in kilograms (kg)
 3. Calculating their BMI with the formula weight / (height * height).
+
+### <a name="hello_world"></a>[Hello World](helloworld.cpp)
+This is a basic Hello World program.
 
 ### <a name="space_traveler"></a>[Space Traveler](space.cpp)
 Someone is travelling from planet Earth to six potential other planets in our solar system.  This program requests the person's weight on planet Earth, and then calculates their weight on the other planets.
