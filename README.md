@@ -44,6 +44,8 @@ If you are using Debian or Ubuntu Linux, type the following apt-get command to i
 - [BMI Calculator](#bmi_calculator) [(file)](bmi.cpp)
 - [Space Traveler](#space_traveler) [(file)](space.cpp)
 
+---
+
 ### <a name="bmi_calculator"></a>[BMI Calculator](bmi.cpp)
 Body mass index (BMI) is a value derived from the mass and height of a person. The BMI is defined as the body mass divided by the square of the body height.
 
