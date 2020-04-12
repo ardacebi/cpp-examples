@@ -24,7 +24,7 @@ int main() {
   
   bmi = weight / (height * height); // Updates the bmi variable using the inputted information by the user and the BMI calculation formula
   
-  std::cout << "Your body mass index (BMI) is: " << bmi << "\n"; // Outputs the final calculation done on line 23
+  std::cout << "Your body mass index (BMI) is: " << bmi << "\n"; // Outputs the final calculation
   
   return 0;
 
