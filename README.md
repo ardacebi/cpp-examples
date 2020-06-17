@@ -92,11 +92,11 @@ This is a basic Hello World program.
 
 ### <a name="space_traveler"></a>[Space Traveler](space.cpp)
 
-Someone is travelling from planet Earth to six potential other planets in our solar system. This program requests the person's weight on planet Earth, and then calculates their weight on the other planets.
+Someone is travelling from Earth to six potential other planets in our solar system. This program requests the person's weight on Earth, and then calculates their weight on the other planets.
 
 The program does this by:
 
-1. Asking the person their weight on planet Earth
+1. Asking the person their weight on Earth
 2. Asking the person which planet they want to travel
 3. After receiving those information, it multiplies the person's weight with the gravitational force of that planet to calculate their weight on those planets.
 
